@@ -1,0 +1,5 @@
+No Primeiro IF se (a>b) o valor de "a" fica igual ao valor de "b".
+
+No Segundo IF se (a>c) inverte os valores de "a" e "c".
+
+No Terceiro IF se (b>c) inverte os valores de "b" e "c".
